@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Личный сайт студента GeekBrains</title>
+
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+<body>
+	<div class="content">
+		<div class="header">
+			<a href="#">Главная</a>/
+			<a href="#">Венеция</a>/
+			<a href="#">Париж</a>/		
+		</div>
+		<h1>Личный сайт студента GeekBrains</h1>
+			
+		<div class="center">
+			
+		</div>
+	</div>
+	<div class="footer">
+		Copyright &copy; 2016 <a href="https://geekbrains.ru/" target="_blank">GeekBrains</a>
+	</div>
+</body>
+</html>
